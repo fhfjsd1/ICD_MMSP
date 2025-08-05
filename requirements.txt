@@ -1,0 +1,12 @@
+HyperPyYAML==1.2.2
+ipython==8.12.3
+librosa==0.10.2.post1
+matplotlib==3.10.5
+numpy==2.3.2
+pandas==2.3.1
+pydub==0.25.1
+scikit_learn==1.2.2
+speechbrain==1.0.1
+torch==2.7.1+cu118
+torchaudio==2.7.1+cu118
+torchvision==0.22.1+cu118
